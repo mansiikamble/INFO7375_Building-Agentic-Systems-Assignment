@@ -1,0 +1,14 @@
+crewai
+crewai-tools
+langchain-community
+langchain-openai
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+duckduckgo-search
+openai
+pydantic
+flask
+flask-cors

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+.env
+cache/
+outputs/*.png
+outputs/*.json
+outputs/*.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep the folders but not the files
+outputs/.gitkeep
+cache/.gitkeep

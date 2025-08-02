@@ -1,0 +1,35 @@
+{
+  "user_id": "demo_light_4666",
+  "timestamp": "2025-08-02T18:57:41.224565",
+  "agent_performance": {
+    "completeness": 50.0,
+    "relevance": 50.0,
+    "actionability": 0.0,
+    "personalization": 0,
+    "overall_score": 25.0
+  },
+  "user_satisfaction": null,
+  "result_quality": {
+    "length": 269,
+    "has_json_structure": false,
+    "has_multiple_sections": false,
+    "readability": 100,
+    "overall_score": 25
+  },
+  "system_metrics": {
+    "performance_report": {
+      "avg_response_time": 42.78730187416077,
+      "agent_success_rates": {
+        "Digital Wellness Orchestrator": 100.0,
+        "Digital Behavior Analyst": 100.0,
+        "Mindfulness and Break Strategist": 100.0,
+        "Sleep and Circadian Rhythm Specialist": 100.0,
+        "Emotional Wellness Monitor": 100.0
+      },
+      "total_analyses": 5
+    },
+    "agent_specific_metrics": {
+      "status": "Performance tracking active"
+    }
+  }
+}

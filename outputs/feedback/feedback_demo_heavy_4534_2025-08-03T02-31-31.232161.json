@@ -1,0 +1,35 @@
+{
+  "user_id": "demo_heavy_4534",
+  "timestamp": "2025-08-03T02:31:31.232161",
+  "agent_performance": {
+    "completeness": 50.0,
+    "relevance": 33.33333333333333,
+    "actionability": 0.0,
+    "personalization": 0,
+    "overall_score": 20.833333333333332
+  },
+  "user_satisfaction": null,
+  "result_quality": {
+    "length": 211,
+    "has_json_structure": false,
+    "has_multiple_sections": false,
+    "readability": 80,
+    "overall_score": 25
+  },
+  "system_metrics": {
+    "performance_report": {
+      "avg_response_time": 28.484687852859498,
+      "agent_success_rates": {
+        "Digital Wellness Orchestrator": 100.0,
+        "Digital Behavior Analyst": 100.0,
+        "Mindfulness and Break Strategist": 100.0,
+        "Sleep and Circadian Rhythm Specialist": 100.0,
+        "Emotional Wellness Monitor": 100.0
+      },
+      "total_analyses": 5
+    },
+    "agent_specific_metrics": {
+      "status": "Performance tracking active"
+    }
+  }
+}
